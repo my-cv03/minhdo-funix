@@ -5,7 +5,7 @@ ul li {
   list-style: none;
 }
 
-/* phần banner */
+/*  banner */
 .banner-img {
   background-image: url(./img/banner.jpg);
   width: 100%;
@@ -23,7 +23,7 @@ ul li {
   text-align: center;
 }
 
-/* Phần navbar */
+/* navbar */
 .navbas {
   display: flex;
 
@@ -58,7 +58,7 @@ ul li {
   color: blue;
 }
 
-/* phần thông tin cá nhân */
+/*  thông tin cá nhân */
 .containers {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -92,7 +92,7 @@ ul li {
 .icons {
   color: blue;
 }
-/* phần thông tin nghề nghiệp */
+/* thông tin nghề nghiệp */
 .jobs {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -218,7 +218,7 @@ ul li {
   padding-top: 10px;
 }
 
-/* Phần chứng chỉ - giải thưởng */
+/*  chứng chỉ - giải thưởng */
 .grid1 {
   display: flex;
 

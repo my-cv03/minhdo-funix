@@ -13,7 +13,7 @@ view.addEventListener("click", function () {
     hidden.style.display = "block";
     viewless.style.display = "none";
   } else {
-    text.innerHTML = "Bạn nhập sai rồi";
+    text.innerHTML = "Định dạng email không đúng";
     text.style.Color = "red";
   }
 });
